@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# 编译输出
+dist/
+
+# 本地环境
+.env
+
+# 日志
+*.log
