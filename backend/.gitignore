@@ -1,10 +1,10 @@
-# Node modules
+# Node.js dependencies
 node_modules/
 
 # 编译输出
 dist/
 
-# 本地环境
+# 本地环境配置
 .env
 
 # 日志
